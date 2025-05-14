@@ -32,4 +32,4 @@ mes = local_hora.tm_mon
 ano = local_hora.tm_year
 dia_da_semana = local_hora.tm_wday
 
-print(f"Data {dia},{mes},{ano} e {dia_da_semana}")
+print(f"Data {dia},{mes},{ano}")
